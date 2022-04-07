@@ -1,5 +1,3 @@
-### ⚡⚡⚡
-
 <div>
   <a herf="https://github.com/LucStorm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucStorm&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
